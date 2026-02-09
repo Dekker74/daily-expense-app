@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "exp-test-001",
+    "amount": 25.50,
+    "description": "Spesa di prova",
+    "category": "alimentari",
+    "date": "2026-02-09T10:00:00.000Z",
+    "createdAt": "2026-02-09T10:00:00.000Z"
+  }
+]
